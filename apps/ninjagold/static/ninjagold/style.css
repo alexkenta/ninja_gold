@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+#wrapper {
+    width: 900px;
+    margin: auto;
+    
+}
+
+.building {
+    width: 200px;
+    display: inline-block;
+    border: solid 2px rgba(34, 30, 30, 0.856);
+    border-radius: 3px;
+    padding: 5px;
+    background-color: rgba(228, 213, 0, 0.979);
+}
+
+#activity {
+    width: 880px;
+    height: 200px;
+    overflow: scroll;
+}
